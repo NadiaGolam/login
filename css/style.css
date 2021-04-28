@@ -1,0 +1,115 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	background: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container{
+	width: 50%;
+    margin: 10% auto;
+	
+}
+
+.admin-login{
+	background: #00b8ff40;
+	padding: 25px;
+	text-align: center;
+	
+
+
+}
+
+.admin-login img{
+	width: 150px;
+	margin: 0px auto;
+	display: block;
+	
+}
+
+.admin-login h2{
+	text-align: center;
+	color: black;
+	font-size: 32px;
+	text-transform: uppercase;
+	margin: 10px 0px;
+	
+}
+.register-container{
+	width: 50%;
+    margin: 10% auto;
+
+}
+.register{
+	background: #00b8ff40;
+	padding: 25px;
+	text-align: center;
+
+
+}
+.register img{
+	width: 150px;
+	margin: 0px auto;
+	display: block;
+	
+
+}
+.register h2{
+	text-align: center;
+	color: black;
+	font-size: 32px;
+	text-transform: uppercase;
+	margin: 10px 0px;
+
+}
+.reset-container{
+	width: 50%;
+    margin: 10% auto;
+
+}
+.reset{
+	background: #00b8ff40;
+	padding: 25px;
+	text-align: center;
+
+}
+.reset h2{
+	text-align: center;
+	color: black;
+	font-size: 32px;
+	text-transform: uppercase;
+	margin: 10px 0px;
+}
+
+.form-control{
+    width: 50%;
+    height: 35px;
+    padding: 5px;
+}
+
+
+
+.btn{
+    background: dodgerblue;
+    color: white;
+    padding: 5px 20px;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+    
+
+}
+.btn:hover{
+	cursor: pointer;
+	box-shadow: 1px 2px 5px antiquewhite;
+}
+
